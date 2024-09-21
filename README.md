@@ -5,6 +5,7 @@ Estudante de TI Apaixonado por dados, sua coleta, transformação e a apresenta�
 Aqui gosto de adicionar projetos pessoais focados em ETL, indo desde a seleção desses dados, a transformação e a publicação dele em um relatório final.
 
 entre em contato comigo:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-meirellesz)
 
 ## Algumas das Tecnologias que Já tive contato:
