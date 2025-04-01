@@ -1,6 +1,5 @@
-• No meu estágio desenvolvo atividades relacionadas a Coleta, Tratamento e Carregamento (ETL) de dados e BI, porém aqui gosto de postar exercícios de Dados envolvendo Python (especialmente bibliotecas Pandas, Matplotlib Pyplot, Seaborn, NumPy e Pyodbc).
-
-• Sou Bolsista na Universidade Estácio de Sá, onde entrei através da minha nota no ENEM.
+* Estagiario no BRDE - Banco Regional de Desenvolvimento do Extremo Sul, atuando na equipe de Business Intelligence com foco em Engenharia de Dados e Análise de Dados.
+* Estudante de Análise e Desenvolvimento de Sistemas e Ciência de Dados.
 
 ### Tecnologias que tive Contato:
 
